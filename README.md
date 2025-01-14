@@ -1,3 +1,3 @@
 # demo 
 
-this is a sample repository
+this is a sample repository "vscode"
